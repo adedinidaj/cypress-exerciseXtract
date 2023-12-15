@@ -2,9 +2,9 @@
   "name": "cypress-exercisextract",
   "version": "1.0.0",
   "description": "Welcome to my Xtract QA Coding Exercise",
-  "main": "index.js",
+  "main": "react.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "cypress"
   },
   "author": "",
   "license": "ISC",
