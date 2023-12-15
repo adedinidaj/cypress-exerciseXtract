@@ -1,0 +1,19 @@
+Things Needed to Be Tested
+Web Form: 
+Page 1
+- Driver Name :: Name of the driver
+- Vehicle Regplate :: Registration plate of the driver
+- Vehicle Type :: Type of vehicle the driver has :: Drop down menu 
+- Driver age :: The age of the driver :: Probably going to be a boundary for this but I may not do it in this test
+- Driver Experience :: Years the driver has been driving (there must be a better way to call this field)
+- Driver Field B :: Not exactly sure what this means but it's not a required field so can be ignored
+- Vehicle Trade Value :: How much the driver wants to trade for the vehicle
+    - Currency Button :: User can change the currency to their peferred
+- Next Button 
+
+Page 2
+- Number of third parties :: How many drivers does the main driver have on the car as third party
+- Third Party Name :: Name of the Third Party
+- Third Party Vehicle Regplate :: Registration plate of the third party 
+- Third Party Vehicle Type :: Type of vehicle the third party driver has :: Drop down menu
+- Done Button
