@@ -6,7 +6,7 @@ You will find in this git repository my Cypress code written by me to complete t
 There are two tasks to be compeleted and I will be attempting both of these tasks.
 
 Task 1:
-- I need to automate the completion of a two-page web form and check that the infromation on the confirmation page matches that previously entered
+- Automate the completion of a two-page web form and check that the infromation on the confirmation page matches that previously entered
 
 Task 2 :: Stretch Goal
 - Define a test which determines the fields to be tested and input values based on the configuration provided
